@@ -1,0 +1,9 @@
+{
+  "editor.tabSize": 2,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnSave": true,
+  "[css]": {
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false
+  }
+}
